@@ -1,4 +1,5 @@
 streamlit
+HEAD
 openai
 pandas
 matplotlib
@@ -7,3 +8,9 @@ pyttsx3
 psycopg2-binary
 python-dotenv
 SpeechRecognition
+pandas
+openai
+matplotlib
+openpyxl
+psycopg2-binary
+a2d4b46 (Versión inicial de Cerberu con backend multilenguaje)
